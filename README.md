@@ -6,6 +6,6 @@ This tool was created by [VCoding](https://github.com/vincent-coding) then I (nt
 Simply execute it with [Python](https://www.python.org/).
 
 # Credits
-**NWPlayer123** for making [pyGecko](https://github.com/wiiudev/pyGecko).
+**NWPlayer123** for making [pyGecko](https://github.com/wiiudev/pyGecko).    
 **VCoding** for making the base of the program.  
 **nt games** for making changes and improvements.
